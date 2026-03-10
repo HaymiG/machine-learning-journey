@@ -1,0 +1,101 @@
+student_id,name,course,hours_studied,attendance_percent,exam_score
+1,Sara,Math,9,75,64
+2,Marta,Math,18,65,87
+3,Ruth,Math,1,65,63
+4,Dawit,Linear Algebra,20,61,85
+5,Dawit,Linear Algebra,14,74,78
+6,Noah,Computer Science,1,70,94
+7,Ruth,Computer Science,9,69,63
+8,Samuel,Math,3,84,56
+9,Samuel,Computer Science,20,76,52
+10,Daniel,Linear Algebra,4,84,55
+11,Liya,Computer Science,20,83,86
+12,Dawit,Math,2,74,99
+13,Hana,Math,8,66,74
+14,Hana,Statistics,12,70,73
+15,Samuel,Physics,9,64,88
+16,Marta,Linear Algebra,8,70,79
+17,Ruth,Computer Science,18,74,93
+18,Samuel,Math,8,62,70
+19,Ruth,Computer Science,3,73,86
+20,Samuel,Physics,16,85,91
+21,Daniel,Physics,9,68,65
+22,Liya,Linear Algebra,9,97,77
+23,Noah,Statistics,12,74,58
+24,Liya,Statistics,3,63,57
+25,Marta,Physics,14,98,54
+26,Ruth,Statistics,20,89,83
+27,Hana,Linear Algebra,1,67,93
+28,Liya,Computer Science,11,67,68
+29,Ruth,Physics,15,60,96
+30,Hana,Linear Algebra,6,92,56
+31,Hana,Linear Algebra,20,72,59
+32,Samuel,Physics,18,93,50
+33,Noah,Computer Science,16,61,57
+34,Samuel,Computer Science,8,63,65
+35,Noah,Math,3,91,54
+36,Liya,Physics,5,90,85
+37,Marta,Computer Science,17,98,77
+38,Dawit,Linear Algebra,7,79,75
+39,Samuel,Statistics,17,88,57
+40,Dawit,Physics,3,81,51
+41,Noah,Linear Algebra,8,97,64
+42,Abel,Math,2,74,54
+43,Abel,Computer Science,3,92,65
+44,Hana,Statistics,7,94,58
+45,Noah,Linear Algebra,16,75,100
+46,Daniel,Statistics,7,66,56
+47,Ruth,Computer Science,14,86,79
+48,Abel,Math,2,85,96
+49,Samuel,Math,8,72,62
+50,Liya,Statistics,5,87,61
+51,Hana,Statistics,8,64,78
+52,Liya,Math,2,94,50
+53,Sara,Physics,6,86,81
+54,Daniel,Physics,13,63,60
+55,Ruth,Math,13,76,100
+56,Daniel,Computer Science,14,95,92
+57,Daniel,Physics,7,78,63
+58,Abel,Linear Algebra,18,63,97
+59,Samuel,Math,2,97,80
+60,Liya,Linear Algebra,6,63,82
+61,Sara,Physics,3,98,54
+62,Dawit,Statistics,4,96,65
+63,Noah,Linear Algebra,2,99,55
+64,Ruth,Linear Algebra,19,93,70
+65,Hana,Physics,11,75,66
+66,Ruth,Physics,10,89,70
+67,Sara,Math,15,99,86
+68,Sara,Math,18,73,82
+69,Hana,Physics,12,64,65
+70,Samuel,Computer Science,6,88,84
+71,Hana,Linear Algebra,17,60,92
+72,Liya,Computer Science,4,68,66
+73,Sara,Math,18,69,67
+74,Hana,Linear Algebra,7,81,63
+75,Hana,Linear Algebra,16,76,53
+76,Sara,Statistics,9,62,50
+77,Samuel,Physics,9,70,97
+78,Daniel,Linear Algebra,14,95,50
+79,Sara,Math,5,94,52
+80,Samuel,Linear Algebra,18,69,77
+81,Marta,Math,10,83,100
+82,Abel,Computer Science,7,75,92
+83,Sara,Computer Science,18,86,89
+84,Marta,Physics,6,71,76
+85,Abel,Physics,11,86,92
+86,Dawit,Computer Science,6,66,74
+87,Abel,Statistics,8,72,79
+88,Samuel,Computer Science,8,74,51
+89,Dawit,Statistics,11,77,54
+90,Hana,Computer Science,17,85,93
+91,Liya,Computer Science,1,67,66
+92,Marta,Linear Algebra,9,62,56
+93,Noah,Statistics,12,80,77
+94,Noah,Linear Algebra,4,84,86
+95,Dawit,Computer Science,2,87,50
+96,Liya,Linear Algebra,7,83,77
+97,Sara,Computer Science,20,80,92
+98,Sara,Computer Science,17,79,92
+99,Ruth,Computer Science,13,78,85
+100,Marta,Physics,14,84,93
