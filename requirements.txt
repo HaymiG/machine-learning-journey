@@ -1,0 +1,20 @@
+# Combined Python Dependencies for ML Projects
+
+# Core Data Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Statistical Analysis
+scipy>=1.9.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.19.0
