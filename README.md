@@ -14,18 +14,32 @@ Tracking my Machine Learning progress from scratch to projects.
   - Stochastic Gradient Descent
   - Scikit-learn Linear Regression with multiple features
 
-**⏳ Logistic Regression**
-- Hours planned: 5
-
+**✅ Logistic Regression**
+- Hours: 5
+- Folder/Notes: `week01_Linear Models (Regression & Classification)/`
+- Implementations:
+  - Logistic Regression from scratch
+  - Scikit-learn Logistic Regression
 
 **⏹ Decision Trees**
 - Hours planned: 4
 
+---
+
+## Projects
+
+### Titanic Survival Prediction
+- Folder: `titanic_notebook/`
+- Description: Mini-project applying logistic regression to predict Titanic survival
+- Notebook: `titanic_survival_logic.ipynb`
+
+### Cardio Performance Analysis
+- Folder: `cardio-performance-analysis/`
+- Description: Statistical analysis of customer data with regression modeling
+- Notebook: `cardio-performance-analysis.ipynb`
 
 ---
 
 ## Current Focus
-Starting **Logistic Regression** and Titanic mini-project.
-
----
+Exploring advanced topics and more projects.
 
